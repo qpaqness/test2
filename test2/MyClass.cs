@@ -5,7 +5,7 @@ namespace test2
     {
         public MyClass()
         {
-            int a = 1;
+            int a = 4;
         }
     }
 }
